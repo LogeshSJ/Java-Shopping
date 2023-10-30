@@ -13,8 +13,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-import static Java_shopping.utils.AppInput.enterInt;
-import static Java_shopping.utils.AppInput.enterString;
+import static Java_shopping.utils.Appinput.enterInt;
+import static Java_shopping.utils.Appinput.enterString;
+import static Java_shopping.utils.Appinput.enterInt;
+import static Java_shopping.utils.Appinput.enterString;
 import static Java_shopping.utils.FileUtil.getCredentialsFile;
 import static Java_shopping.utils.Utils.println;
 

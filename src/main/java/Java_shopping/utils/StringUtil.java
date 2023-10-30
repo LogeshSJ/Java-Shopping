@@ -11,5 +11,7 @@ public class StringUtil {
     public static final String ENTER_PASSWORD_AGAIN = "Please enter your password again: ";
     public static final String REGISTRATION_SUCCESSFUL = "Registration Successful!!";
     public static final String PASSWORD_MISMATCH = "Password mismatch!!!";
-    public static final String HOME_MENU = "1. Categories\n2. Products\n3. Cart\n4. Order\n5. Logout"; ;
+    public static final String HOME_MENU = "1. Categories\n2. Products\n3. Cart\n4. Order\n5. Logout";
+    public static final String CHOICE_CART = "Enter Product Id to add into cart : ";
+
 }
